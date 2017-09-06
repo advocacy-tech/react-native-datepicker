@@ -12,7 +12,9 @@ let style = StyleSheet.create({
   },
   dateIcon: {
     width: 32,
-    height: 32,
+    height: 32
+  },
+  dateIconContainer: {
     marginLeft: 5,
     marginRight: 5
   },
